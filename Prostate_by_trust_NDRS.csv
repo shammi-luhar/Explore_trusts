@@ -1,0 +1,122 @@
+Diagnosis_year,Trust_code_name,England_CA,Cancer_site_group,Count
+2022,R0A Manchester University NHS Foundation Trust,England,Prostate,323
+2022,R0B South Tyneside and Sunderland NHS Foundation Trust,England,Prostate,711
+2022,R0D University Hospitals Dorset NHS Foundation Trust,England,Prostate,607
+2022,R1F Isle Of Wight NHS Trust,England,Prostate,195
+2022,R1H Barts Health NHS Trust,England,Prostate,501
+2022,R1K London North West University Healthcare NHS Trust,England,Prostate,458
+2022,RA2 Royal Surrey County Hospital NHS Foundation Trust,England,Prostate,371
+2022,RA7 University Hospitals Bristol and Weston NHS Foundation Trust,England,Prostate,17
+2022,RA9 Torbay and South Devon NHS Foundation Trust,England,Prostate,389
+2022,RAE Bradford Teaching Hospitals NHS Foundation Trust,England,Prostate,259
+2022,RAJ Mid and South Essex NHS Foundation Trust,England,Prostate,1002
+2022,RAL Royal Free London NHS Foundation Trust,England,Prostate,1161
+2022,RAS Hillingdon Hospitals NHS Foundation Trust,England,Prostate,304
+2022,RAX Kingston and Richmond NHS Foundation Trust,England,Prostate,321
+2022,RBD Dorset County Hospital NHS Foundation Trust,England,Prostate,321
+2022,RBK Walsall Healthcare NHS Trust,England,Prostate,210
+2022,RBL Wirral University Teaching Hospital NHS Foundation Trust,England,Prostate,417
+2022,RBN Mersey and West Lancashire Teaching Hospitals NHS Trust,England,Prostate,550
+2022,RBT Mid Cheshire Hospitals NHS Foundation Trust,England,Prostate,221
+2022,RBV Christie NHS Foundation Trust,England,Prostate,76
+2022,RC9 Bedfordshire Hospitals NHS Foundation Trust,England,Prostate,725
+2022,RCB York and Scarborough Teaching Hospitals NHS Foundation Trust,England,Prostate,526
+2022,RCD Harrogate and District NHS Foundation Trust,England,Prostate,203
+2022,RCF Airedale NHS Foundation Trust,England,Prostate,267
+2022,"RCX Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",England,Prostate,256
+2022,RD1 Royal United Hospitals Bath NHS Foundation Trust,England,Prostate,450
+2022,RD8 Milton Keynes University Hospital NHS Foundation Trust,England,Prostate,270
+2022,RDE East Suffolk and North Essex NHS Foundation Trust,England,Prostate,929
+2022,RDU Frimley Health NHS Foundation Trust,England,Prostate,601
+2022,REF Royal Cornwall Hospitals NHS Trust,England,Prostate,574
+2022,REM Liverpool University Hospitals NHS Foundation Trust,England,Prostate,522
+2022,REN Clatterbridge Cancer Centre NHS Foundation Trust,England,Prostate,16
+2022,"RF4 Barking, Havering and Redbridge University Hospitals NHS Trust",England,Prostate,737
+2022,RFF Barnsley Hospital NHS Foundation Trust,England,Prostate,230
+2022,RFR Rotherham NHS Foundation Trust,England,Prostate,343
+2022,RFS Chesterfield Royal Hospital NHS Foundation Trust,England,Prostate,324
+2022,RGN North West Anglia NHS Foundation Trust,England,Prostate,619
+2022,RGP James Paget University Hospitals NHS Foundation Trust,England,Prostate,263
+2022,RGR West Suffolk NHS Foundation Trust,England,Prostate,330
+2022,RGT Cambridge University Hospitals NHS Foundation Trust,England,Prostate,534
+2022,RH5 Somerset NHS Foundation Trust,England,Prostate,638
+2022,RH8 Royal Devon University Healthcare NHS Foundation Trust,England,Prostate,705
+2022,RHM University Hospital Southampton NHS Foundation Trust,England,Prostate,760
+2022,RHQ Sheffield Teaching Hospitals NHS Foundation Trust,England,Prostate,603
+2022,RHU Portsmouth Hospitals University NHS Trust,England,Prostate,704
+2022,RHW Royal Berkshire NHS Foundation Trust,England,Prostate,517
+2022,RJ1 Guy's and St Thomas' NHS Foundation Trust,England,Prostate,564
+2022,RJ2 Lewisham and Greenwich NHS Trust,England,Prostate,330
+2022,RJ6 Croydon Health Services NHS Trust,England,Prostate,322
+2022,RJ7 St George's University Hospitals NHS Foundation Trust,England,Prostate,367
+2022,RJC South Warwickshire University NHS Foundation Trust,England,Prostate,351
+2022,RJE University Hospitals Of North Midlands NHS Trust,England,Prostate,703
+2022,RJL Northern Lincolnshire and Goole NHS Foundation Trust,England,Prostate,293
+2022,RJN East Cheshire NHS Trust,England,Prostate,132
+2022,RJR Countess Of Chester Hospital NHS Foundation Trust,England,Prostate,197
+2022,RJZ King's College Hospital NHS Foundation Trust,England,Prostate,573
+2022,RK5 Sherwood Forest Hospitals NHS Foundation Trust,England,Prostate,369
+2022,RK9 University Hospitals Plymouth NHS Trust,England,Prostate,554
+2022,RKB University Hospitals Coventry and Warwickshire NHS Trust,England,Prostate,336
+2022,RKE Whittington Health NHS Trust,England,Prostate,140
+2022,RL4 Royal Wolverhampton NHS Trust,England,Prostate,409
+2022,RLQ Wye Valley NHS Trust,England,Prostate,215
+2022,RLT George Eliot Hospital NHS Trust,England,Prostate,140
+2022,RM1 Norfolk and Norwich University Hospitals NHS Foundation Trust,England,Prostate,601
+2022,RM3 Northern Care Alliance NHS Foundation Trust,England,Prostate,777
+2022,RMC Bolton NHS Foundation Trust,England,Prostate,269
+2022,RMP Tameside and Glossop Integrated Care NHS Foundation Trust,England,Prostate,130
+2022,RN3 Great Western Hospitals NHS Foundation Trust,England,Prostate,303
+2022,RN5 Hampshire Hospitals NHS Foundation Trust,England,Prostate,527
+2022,RN7 Dartford and Gravesham NHS Trust,England,Prostate,261
+2022,RNA Dudley Group NHS Foundation Trust,England,Prostate,394
+2022,RNN North Cumbria Integrated Care NHS Foundation Trust,England,Prostate,317
+2022,RNQ Kettering General Hospital NHS Foundation Trust,England,Prostate,293
+2022,RNS Northampton General Hospital NHS Trust,England,Prostate,284
+2022,RNZ Salisbury NHS Foundation Trust,England,Prostate,260
+2022,RP5 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,England,Prostate,337
+2022,RPA Medway NHS Foundation Trust,England,Prostate,454
+2022,RPY Royal Marsden NHS Foundation Trust,England,Prostate,266
+2022,RQM Chelsea and Westminster Hospital NHS Foundation Trust,England,Prostate,392
+2022,RQW Princess Alexandra Hospital NHS Trust,England,Prostate,248
+2022,RQX Homerton Healthcare NHS Foundation Trust,England,Prostate,133
+2022,RR7 Gateshead Health NHS Foundation Trust,England,Prostate,230
+2022,RR8 Leeds Teaching Hospitals NHS Trust,England,Prostate,656
+2022,"RRF Wrightington, Wigan and Leigh NHS Foundation Trust",England,Prostate,279
+2022,RRK University Hospitals Birmingham NHS Foundation Trust,England,Prostate,713
+2022,RRV University College London Hospitals NHS Foundation Trust,England,Prostate,321
+2022,RTD Newcastle Upon Tyne Hospitals NHS Foundation Trust,England,Prostate,352
+2022,RTE Gloucestershire Hospitals NHS Foundation Trust,England,Prostate,631
+2022,RTF Northumbria Healthcare NHS Foundation Trust,England,Prostate,436
+2022,RTG University Hospitals Of Derby and Burton NHS Foundation Trust,England,Prostate,684
+2022,RTH Oxford University Hospitals NHS Foundation Trust,England,Prostate,583
+2022,RTK Ashford and St Peter's Hospitals NHS Foundation Trust,England,Prostate,381
+2022,RTP Surrey and Sussex Healthcare NHS Trust,England,Prostate,501
+2022,RTR South Tees Hospitals NHS Foundation Trust,England,Prostate,477
+2022,RTX University Hospitals Of Morecambe Bay NHS Foundation Trust,England,Prostate,325
+2022,RVJ North Bristol NHS Trust,England,Prostate,895
+2022,RVR Epsom and St Helier University Hospitals NHS Trust,England,Prostate,438
+2022,RVV East Kent Hospitals University NHS Foundation Trust,England,Prostate,969
+2022,RVW North Tees and Hartlepool NHS Foundation Trust,England,Prostate,286
+2022,RWA Hull University Teaching Hospitals NHS Trust,England,Prostate,554
+2022,RWD United Lincolnshire Teaching Hospitals NHS Trust,England,Prostate,666
+2022,RWE University Hospitals Of Leicester NHS Trust,England,Prostate,773
+2022,RWF Maidstone and Tunbridge Wells NHS Trust,England,Prostate,660
+2022,RWG West Hertfordshire Teaching Hospitals NHS Trust,England,Prostate,467
+2022,RWH East and North Hertfordshire NHS Trust,England,Prostate,525
+2022,RWJ Stockport NHS Foundation Trust,England,Prostate,382
+2022,RWP Worcestershire Acute Hospitals NHS Trust,England,Prostate,672
+2022,RWW Warrington and Halton Teaching Hospitals NHS Foundation Trust,England,Prostate,292
+2022,RWY Calderdale and Huddersfield NHS Foundation Trust,England,Prostate,500
+2022,RX1 Nottingham University Hospitals NHS Trust,England,Prostate,657
+2022,RXC East Sussex Healthcare NHS Trust,England,Prostate,466
+2022,RXF Mid Yorkshire Teaching NHS Trust,England,Prostate,583
+2022,RXK Sandwell and West Birmingham Hospitals NHS Trust,England,Prostate,433
+2022,RXL Blackpool Teaching Hospitals NHS Foundation Trust,England,Prostate,330
+2022,RXN Lancashire Teaching Hospitals NHS Foundation Trust,England,Prostate,370
+2022,RXP County Durham and Darlington NHS Foundation Trust,England,Prostate,199
+2022,RXQ Buckinghamshire Healthcare NHS Trust,England,Prostate,477
+2022,RXR East Lancashire Hospitals NHS Trust,England,Prostate,383
+2022,RXW Shrewsbury and Telford Hospital NHS Trust,England,Prostate,484
+2022,RYJ Imperial College Healthcare NHS Trust,England,Prostate,449
+2022,RYR University Hospitals Sussex NHS Foundation Trust,England,Prostate,1193
